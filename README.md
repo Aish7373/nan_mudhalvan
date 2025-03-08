@@ -1,9 +1,9 @@
 Team Name 
-aafiyah afsheen H
-abinaya B
-aishwarya R
-akshidha R
-ananthi S
+aafiyah afsheen H , 
+abinaya B ,
+aishwarya R ,
+akshidha R ,
+ananthi S .
 
 
 # React + Vite
